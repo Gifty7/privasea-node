@@ -2,7 +2,7 @@
 
 Whats Privasea? Ink is a Layer 2 blockchain project specifically tailored for DeFi applications built on the Optimism Superchain (OP Stack). Ink by the team behind Kraken, officially known as Payward Inc.
 
-## Here We Go...GAS 
+## Here We Go...
 
 **`Is there incentivized?` ![Confirm](https://img.shields.io/badge/confirm-not_yet-brightgreen)** 
 
